@@ -10,7 +10,7 @@ public class temp {
         if (file.length() == 0) {
             return;
         }
-        //
+        // gwerhgd
         //
         try (ObjectInputStream oi = new ObjectInputStream(new FileInputStream(file))) {
             Student s = null;
